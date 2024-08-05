@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="menu">
+    <file>setting.png</file>
+    <file>visual.png</file>
+    <file>connect.png</file>
+  </qresource>
+</RCC>

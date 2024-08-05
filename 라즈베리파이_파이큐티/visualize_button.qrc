@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="button">
+    <file>refresh.png</file>
+    <file>calender.png</file>
+  </qresource>
+</RCC>
